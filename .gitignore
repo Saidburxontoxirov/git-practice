@@ -1,2 +1,5 @@
 # inside temp files don't include
 temp/
+
+# don't include .env files
+.env
