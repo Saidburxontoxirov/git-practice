@@ -8,3 +8,7 @@ This repository is built step by step in the tutorial.
 # salom Saidburxon Toxirov
 
 bu dastur ombori githubda joylashgan
+
+# dasturni tuzuvchi Toxirov Saidburxon
+
+Malades Saidburxon
